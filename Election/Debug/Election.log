@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\svc-student\desktop\election\election\main.cpp(29): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\svc-student\desktop\election\election\main.cpp(90): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\svc-student\desktop\election\election\main.cpp(162): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  Election.vcxproj -> C:\Users\svc-student\Desktop\Election\Debug\Election.exe
+  Election.vcxproj -> C:\Users\svc-student\Desktop\Election\Debug\Election.pdb (Partial PDB)
